@@ -7,7 +7,7 @@ on:
    
       # Terraform action you want to perform
       action:
-        description: 'Terraform Action to Perform'
+        description: 'Terraform Action to Perform Ce'
         type: choice
         options:
         - Terraform_apply
